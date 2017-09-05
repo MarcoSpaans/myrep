@@ -16,6 +16,6 @@
     <a href="http://www.jonasbv.nl/" target="_blank"><b>Jonas BV</b></a>
     <a href="http://www.crystalcompany.nl/http://www.crystalcompany.nl/" target="_blank"><b>crystal company BV</b></a>
     <h4><ins>Studie</ins></h4>
-    <p>Ik heb lessen gevolgd bij middelbare school '<i>actief college</i>'. Daar zat ik op GL en ik nam normale lessen zoals nederlands, engels, wis, etz. ik nam ook een gekozen les, techniek, waar ik leerde om met hout, metaal en electriciteit te werken. Ik ben ge&#235;ndigt met een GL-diploma.</p>
+    <p>Ik heb lessen gevolgd bij middelbare school '<i>actief college</i>'. Daar zat ik op GL en nam ik lessen zoals nederlands, engels, wis, etz. ik nam ook een gekozen les, techniek, waar ik leerde om met hout, metaal en electriciteit te werken. Ik ben ge&#235;ndigt met een GL-diploma.</p>
   </body>
 </html>
